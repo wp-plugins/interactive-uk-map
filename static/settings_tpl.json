@@ -1,0 +1,114 @@
+{
+    "st1": {
+   	 	"id": 1,
+		"name": "Channel Islands",
+		"shortname": "",
+		"link": "",
+		"comment": "",
+		"image": ""
+	},
+    "st2": {
+   	 	"id": 2,
+		"name": "East Midlands",
+		"shortname": "",
+		"link": "",
+		"comment": "",
+		"image": ""
+	},
+    "st3": {
+   	 	"id": 3,
+		"name": "Eastern England",
+		"shortname": "",
+		"link": "",
+		"comment": "",
+		"image": ""
+	},
+    "st4": {
+   	 	"id": 4,
+		"name": "Greater London",
+		"shortname": "",
+		"link": "",
+		"comment": "",
+		"image": ""
+	},
+    "st5": {
+   	 	"id": 5,
+		"name": "Isle Of Man",
+		"shortname": "",
+		"link": "",
+		"comment": "",
+		"image": ""
+	},
+    "st6": {
+   	 	"id": 6,
+		"name": "North East",
+		"shortname": "",
+		"link": "",
+		"comment": "",
+		"image": ""
+	},
+    "st7": {
+   	 	"id": 7,
+		"name": "North West",
+		"shortname": "",
+		"link": "",
+		"comment": "",
+		"image": ""
+	},
+    "st8": {
+   	 	"id": 8,
+		"name": "Northern Ireland",
+		"shortname": "",
+		"link": "",
+		"comment": "",
+		"image": ""
+	},
+    "st9": {
+   	 	"id": 9,
+		"name": "Scotland",
+		"shortname": "",
+		"link": "",
+		"comment": "",
+		"image": ""
+	},
+    "st10": {
+   	 	"id": 10,
+		"name": "South East",
+		"shortname": "",
+		"link": "",
+		"comment": "",
+		"image": ""
+	},
+    "st11": {
+   	 	"id": 11,
+		"name": "South West",
+		"shortname": "",
+		"link": "",
+		"comment": "",
+		"image": ""
+	},
+    "st12": {
+   	 	"id": 12,
+		"name": "Wales",
+		"shortname": "",
+		"link": "",
+		"comment": "",
+		"image": ""
+	},
+    "st13": {
+   	 	"id": 13,
+		"name": "West Midlands",
+		"shortname": "",
+		"link": "",
+		"comment": "",
+		"image": ""
+	},
+    "st14": {
+   	 	"id": 14,
+		"name": "Yorkshire and the Humber",
+		"shortname": "",
+		"link": "",
+		"comment": "",
+		"image": ""
+	}
+}
