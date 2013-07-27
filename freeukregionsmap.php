@@ -109,7 +109,7 @@ add_filter('the_content', 'free_freeuk_map_plugin_content', 15);
 
 function free_freeuk_map_plugin_content($content) {
 
-    $dir = WP_PLUGIN_URL.'/uk-interactive-map/static/';
+    $dir = WP_PLUGIN_URL.'/interactive-uk-map/static/';
     $siteURL = get_site_url();
 
     $fontSize = get_option('freefreeukhtml5map_nameFontSize', '11');
