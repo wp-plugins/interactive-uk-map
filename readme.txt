@@ -11,7 +11,7 @@ Free WordPress plugin for embedding an interactive United Kingdom map with click
 
 == Description ==
 
-**Important! This plugin is outdated. Choose the enhanced responsive [UK Map for WordPress for FREE](https://wordpress.org/plugins/interactive-map-of-the-united-kingdom/) and enjoy cool design, better interactivity and many new capabilities.**
+**Important! This plugin is outdated. Choose the enhanced responsive [HTML5 maps for FREE](https://wordpress.org/plugins/html5-maps/) and enjoy cool design, better interactivity and many new capabilities.**
 
 This plugin allows you to embed the colorful interactive UK map to your WordPress powered website. Interactive map is the best way to provide your blog with geographically-related content or effective navigation system. Just add a special shortcode into any blog page or post and you will find our map in the blog after the few seconds. Functional editor allows you to easily add popup balloons for additional information.
 
