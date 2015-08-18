@@ -3,8 +3,8 @@ Contributors: html5maps
 Donate link: http://fla-shop.com/
 Tags: map, maps, interactive map, javascript, html5 map, svg map, united kingdom, clickable map, uk map, dealer map
 Requires at least: 3.3
-Tested up to: 4.2.4
-Stable tag: 1.0
+Tested up to: 4.3
+Stable tag: 1.1
 License: GPLv2 or later
 
 Free WordPress plugin for embedding an interactive United Kingdom map with clickable regions. Easy to install and configure.
@@ -52,6 +52,9 @@ No, all maps inserted with the `[freeukregionmap01]` will share the same configu
 
 
 == Changelog ==
+
+= 1.1 =
+* Minor changes.
 
 = 1.0 =
 * Initial release.
